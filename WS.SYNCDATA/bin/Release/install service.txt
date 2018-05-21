@@ -1,0 +1,4 @@
+Run Windows Command Prompt as Administrator
+paste this code: cd C:\Windows\Microsoft.NET\Framework\v4.0.30319\ to go to folder
+edit and run this too: installutil C:\ProjectFolder\bin\Debug\MyProject.exe
+Note: To uninstall: installutil /u C:\ProjectFolder\bin\Debug\MyProject.exe
